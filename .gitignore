@@ -1,0 +1,33 @@
+# Arquivos de ambiente virtual
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração do Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+
+# Banco de dados local (SQLite)
+db.sqlite3
+
+# Arquivos do Django Admin
+static/
+media/
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
+
+# Arquivos de configuração do sistema operacional
+.DS_Store  # MacOS
+Thumbs.db  # Windows
+
+# Arquivos de backup
+*~
+*.bak
